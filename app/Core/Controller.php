@@ -1,10 +1,4 @@
 <?php
-/**
- * Controller - base controller
- *
- * @author Virgil-Adrian Teaca - virgil@giulianaeassociati.com
- * @version 3.0
- */
 
 namespace App\Core;
 
